@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Daily-Expense-tracker/static/css/main.31d6cfe0.css",
+    "main.js": "/Daily-Expense-tracker/static/js/main.d04f4224.js",
+    "static/js/787.263dbb3c.chunk.js": "/Daily-Expense-tracker/static/js/787.263dbb3c.chunk.js",
+    "index.html": "/Daily-Expense-tracker/index.html",
+    "main.d04f4224.js.map": "/Daily-Expense-tracker/static/js/main.d04f4224.js.map",
+    "787.263dbb3c.chunk.js.map": "/Daily-Expense-tracker/static/js/787.263dbb3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d04f4224.js"
+  ]
+}
